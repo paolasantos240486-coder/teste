@@ -3,3 +3,14 @@ background-color: #f1e8c3;
 
 
 }
+
+
+.capa{
+    color:rgb(175, 174, 126);
+    font-size: 20px;
+}
+
+#livro{
+    display: flex; 
+    padding-left: 200px;
+}
